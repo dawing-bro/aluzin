@@ -1,0 +1,12 @@
+<script rust>
+</script>
+
+<htmlcode>
+<h1>Hello World</h1>
+</htmlcode>
+
+<style>
+.g {
+    background-color: blue
+}
+</style>
